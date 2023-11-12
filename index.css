@@ -1,0 +1,611 @@
+.starfall-gif-46-1-icon {
+  position: absolute;
+  height: 13.55%;
+  width: 100%;
+  top: 0%;
+  right: 0%;
+  bottom: 86.45%;
+  left: 0%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.instance-child {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0%;
+  right: 0%;
+  bottom: 0%;
+  left: 0%;
+  border-radius: var(--br-2xl);
+  background-color: var(--color-gainsboro);
+  mix-blend-mode: darken;
+}
+.home {
+  position: absolute;
+  width: 58.89%;
+  top: 17.78%;
+  left: 24%;
+  display: inline-block;
+}
+.rectangle-parent {
+  position: absolute;
+  height: 0.73%;
+  width: 10.55%;
+  top: 0.75%;
+  right: 79.53%;
+  bottom: 98.52%;
+  left: 9.92%;
+}
+.home1 {
+  position: absolute;
+  top: 17.78%;
+  left: 24.02%;
+}
+.rectangle-group {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0%;
+  right: 0%;
+  bottom: 0%;
+  left: 0%;
+  cursor: pointer;
+}
+.macbook-air-2-inner {
+  position: absolute;
+  height: 0.73%;
+  width: 13.59%;
+  top: 0.75%;
+  right: 62.81%;
+  bottom: 98.52%;
+  left: 23.59%;
+}
+.home2 {
+  position: absolute;
+  top: 17.78%;
+  left: 24.04%;
+}
+.rectangle-container {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0%;
+  right: 0%;
+  bottom: 0%;
+  left: 0%;
+}
+.instance-container {
+  position: relative;
+  width: 245px;
+  height: 45px;
+}
+.instance-wrapper {
+  width: 257px;
+  height: 45px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.macbook-air-2-child {
+  position: absolute;
+  top: 46px;
+  left: 645px;
+  width: 242px;
+  height: 45px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  cursor: pointer;
+}
+.home3 {
+  position: absolute;
+  top: 17.78%;
+  left: 24.04%;
+  cursor: pointer;
+}
+.group-div {
+  position: absolute;
+  height: 0.73%;
+  width: 15.08%;
+  top: 0.75%;
+  right: 10.16%;
+  bottom: 98.52%;
+  left: 74.77%;
+}
+.macbook-air-2-inner1 {
+  position: absolute;
+  height: 0.73%;
+  width: 10.63%;
+  top: 0.75%;
+  right: 50.86%;
+  bottom: 98.52%;
+  left: 38.52%;
+}
+.i-am-undergoing {
+  margin: 0;
+}
+.i-am-undergoing-container {
+  position: absolute;
+  width: 35.08%;
+  top: 7.55%;
+  left: 40.94%;
+  display: inline-block;
+}
+.span {
+  font-size: var(--font-size-13xl);
+}
+.i-am-norbu-container {
+  position: absolute;
+  width: 28.75%;
+  top: 6.25%;
+  left: 40.55%;
+  display: inline-block;
+  font-size: var(--font-size-17xl);
+}
+.macbook-air-2-item {
+  position: absolute;
+  height: 0.22%;
+  width: 37.7%;
+  top: 5.45%;
+  right: 21.8%;
+  bottom: 94.33%;
+  left: 40.51%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.hello-there {
+  position: absolute;
+  width: 46.09%;
+  top: 4.09%;
+  left: 40.55%;
+  font-size: var(--font-size-29xl);
+  color: var(--color-yellow-200);
+  display: inline-block;
+}
+.ellipse-icon {
+  position: absolute;
+  height: 3.92%;
+  width: 19.06%;
+  top: 3.63%;
+  right: 64.22%;
+  bottom: 92.45%;
+  left: 16.72%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.frame-child {
+  position: absolute;
+  height: 96.22%;
+  width: 100%;
+  top: 0%;
+  right: 0%;
+  bottom: 3.78%;
+  left: 0%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+  mix-blend-mode: lighten;
+}
+.frame-item {
+  position: absolute;
+  height: 41.6%;
+  width: 36.21%;
+  top: 8.38%;
+  right: 7.24%;
+  bottom: 50.02%;
+  left: 56.54%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.name-norbu-container {
+  position: absolute;
+  height: 39.54%;
+  width: 47.24%;
+  top: 13.54%;
+  left: 6.06%;
+  font-size: var(--font-size-13xl);
+  color: rgba(241, 241, 241, 0.88);
+  display: inline-block;
+}
+.image-6-icon {
+  position: absolute;
+  height: 6.42%;
+  width: 28.03%;
+  top: 54.42%;
+  right: 6.35%;
+  bottom: 39.16%;
+  left: 65.62%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+  mix-blend-mode: linear-burn;
+}
+.image-7-icon {
+  position: absolute;
+  height: 6.42%;
+  width: 28.03%;
+  top: 62.1%;
+  right: 7.26%;
+  bottom: 31.48%;
+  left: 64.71%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+  mix-blend-mode: linear-burn;
+}
+.image-8-icon {
+  position: absolute;
+  height: 6.42%;
+  width: 28.03%;
+  top: 69.29%;
+  right: 6.35%;
+  bottom: 24.29%;
+  left: 65.62%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+  mix-blend-mode: linear-burn;
+}
+.sda {
+  position: absolute;
+  height: 4.27%;
+  width: 8.46%;
+  top: 56.56%;
+  left: 54.6%;
+  display: inline-block;
+}
+.dsf {
+  position: absolute;
+  height: 4.27%;
+  width: 7.35%;
+  top: 64.23%;
+  left: 54.78%;
+  display: inline-block;
+}
+.sda1 {
+  position: absolute;
+  height: 4.27%;
+  width: 8.46%;
+  top: 71.33%;
+  left: 54.6%;
+  display: inline-block;
+}
+.about-me {
+  position: absolute;
+  height: 4.12%;
+  width: 18.11%;
+  top: 5.98%;
+  left: 36.67%;
+  font-size: var(--font-size-21xl);
+  color: var(--color-yellow-100);
+  display: inline-block;
+}
+.frame-div {
+  position: absolute;
+  height: 15.58%;
+  width: 99.22%;
+  top: 13.55%;
+  right: 0%;
+  bottom: 70.87%;
+  left: 0.78%;
+  font-size: var(--font-size-17xl);
+  color: var(--color-gold);
+}
+.httpswwwfigmacomfileit2 {
+  position: absolute;
+  height: 4.15%;
+  width: 54.53%;
+  top: 63.61%;
+  left: 43.05%;
+  font-size: var(--font-size-17xl);
+  display: inline-block;
+}
+.location1 {
+  position: absolute;
+  height: 120.89%;
+  width: 120.25%;
+  top: 0%;
+  left: 0%;
+  display: inline-block;
+}
+.location {
+  position: absolute;
+  height: 1.47%;
+  width: 27.66%;
+  top: 30.45%;
+  right: 37.19%;
+  bottom: 68.09%;
+  left: 35.16%;
+  font-size: var(--font-size-29xl);
+  color: var(--color-yellow-200);
+}
+.country-bhutan {
+  font-size: var(--font-size-21xl);
+}
+.country-bhutan-container {
+  position: absolute;
+  width: 32.97%;
+  top: 32.19%;
+  left: 4.53%;
+  display: inline-block;
+}
+.image-1variant2-icon {
+  position: absolute;
+  height: 4.12%;
+  width: 35.94%;
+  top: 33.93%;
+  right: 59.53%;
+  bottom: 61.95%;
+  left: 4.53%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.from-chukha {
+  position: absolute;
+  width: 47.89%;
+  top: 39.03%;
+  left: 5.31%;
+  font-size: var(--font-size-21xl);
+  display: inline-block;
+}
+.living-at {
+  position: absolute;
+  width: 46.48%;
+  top: 44.87%;
+  left: 4.53%;
+  font-size: var(--font-size-21xl);
+  display: inline-block;
+}
+.image-3-icon {
+  position: absolute;
+  height: 4.97%;
+  width: 56.25%;
+  top: 46.48%;
+  right: 39.22%;
+  bottom: 48.55%;
+  left: 4.53%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.image-4-icon {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0%;
+  right: 0%;
+  bottom: 0%;
+  left: 0%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.image-5 {
+  position: absolute;
+  height: 3.86%;
+  width: 56.25%;
+  top: 40.41%;
+  right: 39.22%;
+  bottom: 55.73%;
+  left: 4.53%;
+}
+.macbook-air-2-inner2 {
+  position: absolute;
+  height: 1.4%;
+  width: 8.91%;
+  top: 54.97%;
+  right: 31.88%;
+  bottom: 43.63%;
+  left: 59.22%;
+}
+.data-cleaning-dsa {
+  position: absolute;
+  height: 1.09%;
+  width: 36.25%;
+  top: 55.28%;
+  left: 19.61%;
+  font-size: var(--font-size-21xl);
+  display: inline-block;
+}
+.user-interface-design {
+  position: absolute;
+  height: 1.42%;
+  width: 72.11%;
+  top: 61.85%;
+  left: 10.23%;
+  font-size: var(--font-size-21xl);
+  display: inline-block;
+}
+.programing-language {
+  position: absolute;
+  height: 1.04%;
+  width: 36.64%;
+  top: 68.19%;
+  left: 14.38%;
+  font-size: var(--font-size-21xl);
+  display: inline-block;
+}
+.image-9-icon {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 15.62%;
+  right: 20.71%;
+  bottom: -15.62%;
+  left: -20.71%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.image-9 {
+  position: absolute;
+  height: 1.45%;
+  width: 6.64%;
+  top: 67.78%;
+  right: 36.02%;
+  bottom: 30.77%;
+  left: 57.34%;
+}
+.ithub-id {
+  text-decoration: underline;
+}
+.ithub-id-norbu-d {
+  color: inherit;
+}
+.github-id-container {
+  position: absolute;
+  height: 2.93%;
+  width: 33.98%;
+  top: 78.23%;
+  left: 7.81%;
+  font-size: var(--font-size-13xl);
+  color: inherit;
+  display: inline-block;
+}
+.image-13-icon {
+  position: absolute;
+  height: 5.63%;
+  width: 49.31%;
+  top: 82.33%;
+  right: 42.66%;
+  bottom: 12.03%;
+  left: 8.03%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.kaggle-id-container {
+  position: absolute;
+  height: 3.81%;
+  width: 47.89%;
+  top: 88.49%;
+  left: 8.05%;
+  font-size: var(--font-size-13xl);
+  display: inline-block;
+}
+.image-14-icon {
+  position: absolute;
+  height: 5.93%;
+  width: 49.3%;
+  top: 92.59%;
+  right: 42.66%;
+  bottom: 1.48%;
+  left: 8.05%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+  mix-blend-mode: linear-dodge;
+}
+.name-norbu-container1 {
+  position: absolute;
+  height: 1.6%;
+  width: 35.08%;
+  top: 76.41%;
+  left: 7.81%;
+  font-size: var(--font-size-13xl);
+  display: inline-block;
+}
+.contact-me {
+  position: absolute;
+  height: 1.42%;
+  width: 26.17%;
+  top: 74.75%;
+  left: 27.58%;
+  font-size: var(--font-size-29xl);
+  color: var(--color-yellow-200);
+  display: inline-block;
+}
+.macbook-air-2-child1 {
+  position: absolute;
+  height: 3.74%;
+  width: 30.7%;
+  top: 56.97%;
+  right: 62.5%;
+  bottom: 39.29%;
+  left: 6.8%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.macbook-air-2-child2 {
+  position: absolute;
+  height: 3.74%;
+  width: 33.2%;
+  top: 56.97%;
+  right: 24.61%;
+  bottom: 39.29%;
+  left: 42.19%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.image-15-icon {
+  position: absolute;
+  height: 4.18%;
+  width: 38.67%;
+  top: 69.99%;
+  right: 53.67%;
+  bottom: 25.82%;
+  left: 7.66%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.uiux-figma-design {
+  position: absolute;
+  height: 1.24%;
+  width: 34.69%;
+  top: 63.84%;
+  left: 5.23%;
+  font-size: var(--font-size-17xl);
+  display: inline-block;
+}
+.education-skills1 {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+}
+.education-skills {
+  position: absolute;
+  top: 3241px;
+  left: 365px;
+  width: 350px;
+  height: 58px;
+  font-size: var(--font-size-29xl);
+  color: var(--color-yellow-100);
+}
+.macbook-air-2 {
+  position: relative;
+  background-color: #0a0430;
+  width: 100%;
+  height: 6142px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-5xl);
+  color: var(--color-white);
+  font-family: var(--font-inter);
+}
